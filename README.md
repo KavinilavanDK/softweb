@@ -727,7 +727,7 @@ border:2px solid white;
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (56).png>)git pi
+![Alt text](<Screenshot (56).png>)
 ![Alt text](<Screenshot (57).png>)
 ![Alt text](<Screenshot (58).png>)
 ![Alt text](<Screenshot (59).png>)
